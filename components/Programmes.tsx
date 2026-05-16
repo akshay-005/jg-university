@@ -98,7 +98,7 @@ export default function Programmes() {
             Our Programmes
           </span>
           <h2 className="font-display text-4xl sm:text-5xl font-bold text-gray-900 mb-4">
-            Build Tomorrow's Career Today
+            Build Tomorrow&apos;s Career Today
           </h2>
           <p className="text-gray-500 text-lg max-w-2xl mx-auto">
             Industry-aligned programmes across engineering, management, law, design,
